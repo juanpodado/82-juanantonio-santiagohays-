@@ -1,0 +1,29 @@
+body{
+    background-color: yellow;
+    text-emphasis-color: black;
+}
+
+article{
+    background-color: rgb(44, 43, 43);
+    padding: 1.5rem;
+    border-bottom: 1px;
+    border-color: white;
+
+}
+
+.resaltado{
+    color:yellow;
+}
+
+.ilustracion{
+
+
+    border-color: #fff;
+    border-style: solid;
+    border-width: 4px;
+}
+
+nav>ul>li {
+
+    
+}
